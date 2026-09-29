@@ -1,0 +1,38 @@
+###POST Crea monumento
+POST http://localhost:8080/monument
+Content-Type: application/json
+
+{
+  "codigoPais": "ES",
+  "nombrePais": "España",
+  "ciudad": "Barcelona",
+  "latitud": 41.4036,
+  "longitud": 2.1744,
+  "nombre": "Sagrada Familia",
+  "descripcion": "Basilica",
+  "urlFoto": "..."
+}
+
+###GET Coger todos los monumentos
+GET http://localhost:8080/monument
+
+###GET Coger monumento por id
+GET http://localhost:8080/monument/1
+
+###PUT Modificar  monumento
+PUT http://localhost:8080/monument/1
+Content-Type: application/json
+
+{
+  "codigoPais": "ES",
+  "nombrePais": "España",
+  "ciudad": "Barcelona",
+  "latitud": 41.4036,
+  "longitud": 2.1744,
+  "nombre": "Sagrada Familia",
+  "descripcion": "No es una Basilica",
+  "urlFoto": "..."
+}
+
+###DELETE Borrar monumento id1
+DELETE http://localhost:8080/monument/1
