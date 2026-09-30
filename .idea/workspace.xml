@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3ed58eb-04ef-4666-9a41-45d0528addf4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Tarea1_API_Monumentos/src/main/java/com/salesianos/dam/Tarea1_API_Monumentos/Monumento.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tarea1_API_Monumentos/src/main/java/com/salesianos/dam/Tarea1_API_Monumentos/model/Monumento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tarea1_API_Monumentos/src/main/java/com/salesianos/dam/Tarea1_API_Monumentos/MonumentoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tarea1_API_Monumentos/src/main/java/com/salesianos/dam/Tarea1_API_Monumentos/controller/MonumentoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tarea1_API_Monumentos/src/main/java/com/salesianos/dam/Tarea1_API_Monumentos/MonumentoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tarea1_API_Monumentos/src/main/java/com/salesianos/dam/Tarea1_API_Monumentos/repo/MonumentoRepository.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3K2veLFlDa1LNU2nHL9em2l5cR6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/melguizo.gamar25_tri/tarea1-api_monumentos-MartaMelguizo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\melguizo.gamar25_tri\tarea1-api_monumentos-MartaMelguizo\Tarea1_API_Monumentos\src\main\java\com\salesianos\dam\Tarea1_API_Monumentos\repo" />
+      <recent name="C:\Users\melguizo.gamar25_tri\tarea1-api_monumentos-MartaMelguizo\Tarea1_API_Monumentos\src\main\java\com\salesianos\dam\Tarea1_API_Monumentos\controller" />
+      <recent name="C:\Users\melguizo.gamar25_tri\tarea1-api_monumentos-MartaMelguizo\Tarea1_API_Monumentos\src\main\java\com\salesianos\dam\Tarea1_API_Monumentos\model" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3ed58eb-04ef-4666-9a41-45d0528addf4" name="Changes" comment="" />
+      <created>1790768575562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790768575562</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
